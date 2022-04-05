@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+.contact{
+    background-image: url("assets/ima/contact.jpg");
+    background-size: cover;
+    }
+    .container{
+    background-image: url("assets/ima/images1.jpg");
+    }

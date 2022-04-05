@@ -1,0 +1,9 @@
+1. At first I created 5 html files --> index.html, BestSeller.html, contact.html, signup.html and login.html files.
+
+2. By using Bootstrap I created this website.
+
+3. Created one Screenshot folder where I stored all the images related to Restaurant Website.
+
+4. index.html is the home page, BestSeller.html contains all those dishes which are in demand and contact.html user can contact with the admin of the page.
+
+5. The user can navigate between all the pages through common header.
